@@ -12,10 +12,10 @@ const apikey = JSON.parse(fs.readFileSync('./src/settings.json'))
 
 
 // Outros
-global.owner = ['553189092420']
+global.owner = ['491777062822]
 global.prefix = ['/']
 global.packname = 'Shiro Bot'
-global.author = 'fnixdev'
+global.author = 'Yannick 
 global.sp = '✾'
 global.api = apikey.apikey
 global.mess = {
